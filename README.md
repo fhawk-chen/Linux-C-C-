@@ -1,2 +1,2 @@
-# Linux-C-C-
+# Linux-C/C++
 知识点
